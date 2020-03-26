@@ -1,0 +1,108 @@
+Zona;Regione;COD_PROVINCIA;Provincia; Popolazione;Superficie;Densità;N_COMUNI
+Sud e Isole;Sicilia;AG;Agrigento;434870;3052,59;142;43
+Nord;Piemonte;AL;Alessandria;421284;3558,83;118;187
+Centro;Marche;AN;Ancona;471228;1963,22;240;47
+Nord;Valle d'Aosta;AO;Aosta;125666;3260,9;39;74
+Centro;Toscana;AR;Arezzo;342654;3233,08;106;36
+Centro;Marche;AP;Ascoli Piceno;207179;1228,27;169;33
+Nord;Piemonte;AT;Asti;214638;1510,19;142;118
+Sud e Isole;Campania;AV;Avellino;418306;2806,07;149;118
+Sud e Isole;Puglia;BA;Bari;1251994;3862,88;324;41
+Sud e Isole;Puglia;BT;Barletta-Andria-Trani;390011;1542,95;253;10
+Nord;Veneto;BL;Belluno;202950;3610,2;56;61
+Sud e Isole;Campania;BN;Benevento;277018;2080,44;133;78
+Nord;Lombardia;BG;Bergamo;1114590;2754,9;405;243
+Nord;Piemonte;BI;Biella;175585;913,28;192;74
+Nord;Emilia Romagna;BO;Bologna;1014619;3702,32;274;55
+Nord;Trentino-Alto Adige;BZ;Bolzano;531178;7398,38;72;116
+Nord;Lombardia;BS;Brescia;1265954;4785,62;265;205
+Sud e Isole;Puglia;BR;Brindisi;392975;1861,12;211;20
+Sud e Isole;Sardegna;CA;Cagliari;431038;1248,68;345;17
+Sud e Isole;Sicilia;CL;Caltanisetta;262458;2138,37;123;22
+Sud e Isole;Molise;CB;Campobasso;221238;2925,41;76;84
+Sud e Isole;Campania;CE;Caserta;922965;2651,35;348;104
+Sud e Isole;Sicilia;CT;Catania;1107702;3573,68;310;58
+Sud e Isole;Calabria;CZ;Catanzaro;358316;2415,45;148;80
+Sud e Isole;Abruzzo;CH;Chieti;385588;2599,58;148;104
+Nord;Lombardia;CO;Como;599204;1279,04;468;148
+Sud e Isole;Calabria;CS;Cosenza;705753;6709,75;105;150
+Nord;Lombardia;CR;Cremona;358955;1770,46;203;113
+Sud e Isole;Calabria;KR;Crotone;174980;1735,68;101;27
+Nord;Piemonte;CN;Cuneo;587098;6894,94;85;247
+Sud e Isole;Sicilia;EN;Enna;164788;2574,7;64;20
+Centro;Marche;FM;Fermo;173800;862,77;201;40
+Nord;Emilia Romagna;FE;Ferrara;345691;2635,12;131;21
+Centro;Toscana;FI;Firenze;1011349;3513,69;288;41
+Sud e Isole;Puglia;FG;Foggia;622183;7007,54;89;61
+Nord;Emilia Romagna;FC;Forlì-Cesena;394627;2378,4;166;30
+Centro;Lazio;FR;Frosinone;489083;3247,08;151;91
+Nord;Liguria;GE;Genova;841180;1833,79;459;67
+Nord;Friuli Venezia Giulia;GO;Gorizia;139403;467,14;298;25
+Centro;Toscana;GR;Grosseto;221629;4503,12;49;28
+Nord;Liguria;IM;Imperia;213840;1154,78;185;66
+Sud e Isole;Molise;IS;Isernia;84379;1535,24;55;52
+Nord;Liguria;SP;La Spezia;219556;881,35;249;32
+Sud e Isole;Abruzzo;AQ;L'Aquila;299031;5047,55;59;108
+Centro;Lazio;LT;Latina;575254;2256,16;255;33
+Sud e Isole;Puglia;LE;Lecce;795134;2799,07;284;96
+Nord;Lombardia;LC;Lecco;337380;805,61;419;84
+Centro;Toscana;LI;Livorno;334832;1213,71;276;19
+Nord;Lombardia;LO;Lodi;230198;782,99;294;60
+Centro;Toscana;LU;Lucca;387876;1773,22;219;33
+Centro;Marche;MC;Macerata;314178;2779,34;113;55
+Nord;Lombardia;MN;Mantova;412292;2341,44;176;64
+Centro;Toscana;MS;Massa-Carrara;194878;1154,68;169;17
+Sud e Isole;Basilicata;MT;Matera;197909;3478,89;57;31
+Sud e Isole;Sicilia;ME;Messina;626876;3266,12;192;108
+Nord;Lombardia;MI;Milano;3250315;1575,65;2063;133
+Nord;Emilia Romagna;MO;Modena;705393;2688,02;262;47
+Nord;Lombardia;MB;Monza E Della Brianza;873935;405,41;2156;55
+Sud e Isole;Campania;;Napoli;3084890;1178,93;2617;92
+Nord;Piemonte;NO;Novara;369018;1340,28;275;87
+Sud e Isole;Sardegna;NU;Nuoro;208550;5638,02;37;74
+Sud e Isole;Sardegna;OR;Oristano;157707;2990,45;53;87
+Nord;Veneto;PD;Padova;937908;2144,15;437;102
+Sud e Isole;Sicilia;PA;Palermo;1252588;5009,28;250;82
+Nord;Emilia Romagna;PR;Parma;451631;3447,48;131;44
+Nord;Lombardia;PV;Pavia;545888;2968,64;184;186
+Centro;Umbria;PG;Perugia;656382;6337,15;104;59
+Centro;Marche;PU;Pesaro E Urbino;358886;2567,78;140;53
+Sud e Isole;Abruzzo;PE;Pescara;318909;1230,33;259;46
+Nord;Emilia Romagna;PC;Piacenza;287152;2585,86;111;46
+Centro;Toscana;PI;Pisa;419037;2444,72;171;37
+Centro;Toscana;PT;Pistoia;292473;964,12;303;20
+Nord;Friuli Venezia Giulia;PN;Pordenone;312533;2275,42;137;50
+Sud e Isole;Basilicata;PZ;Potenza;364960;6594,44;55;100
+Centro;Toscana;PO;Prato;257716;365,72;705;7
+Sud e Isole;Sicilia;RG;Ragusa;320893;1623,89;198;12
+Nord;Emilia Romagna;RA;Ravenna;389456;1859,44;209;18
+Sud e Isole;Calabria;RC;Reggio Calabria;548009;3210,37;171;97
+Nord;Emilia Romagna;RE;Reggio Emilio;531891;2291,26;232;42
+Centro;Lazio;RI;Rieti;155503;2750,52;57;73
+Nord;Emilia Romagna;RN;Rimini;339017;864,88;392;25
+Centro;Lazio;RM;Roma;4342212;5363,28;810;121
+Nord;Veneto;RO;Rovigo;234937;1819,35;129;50
+Sud e Isole;Campania;SA;Salerno;1098513;4954,16;222;158
+Sud e Isole;Sardegna;SS;Sassari;491571;7692,09;64;92
+Nord;Liguria;SV;Savona;276064;1546,29;179;69
+Centro;Toscana;SI;Siena;267197;3820,98;70;35
+Sud e Isole;Sicilia;SR;Siracusa;399224;2124,13;188;21
+Nord;Lombardia;SO;Sondrio;181095;3195,76;57;77
+Sud e Isole;Sardegna;SU;Sud Sardegna;350725;6530,78;54;107
+Sud e Isole;Puglia;TA;Taranto;576756;2467,35;234;29
+Sud e Isole;Abruzzo;TE;Teramo;308052;1954,38;158;47
+Centro;Umbria;TR;Terni;225633;2127,18;106;33
+Nord;Piemonte;TO;Torino;2259523;6827,0;331;312
+Sud e Isole;Sicilia;TP;Trapani;430492;2469,62;174;24
+Nord;Trentino-Alto Adige;TN;Trento;541098;6207,12;87;166
+Nord;Veneto;TV;Treviso;887806;2479,83;358;94
+Nord;Friuli Venezia Giulia;TS;Trieste;234493;212,51;1103;6
+Nord;Friuli Venezia Giulia;UD;Udine;528791;4969,3;106;134
+Nord;Lombardia;VA;Varese;890768;1198,11;743;138
+Nord;Veneto;VE;Venezia;853338;2472,91;345;44
+Nord;Piemonte;VB;Verbano-Cusio-Ossola;158349;2260,91;70;74
+Nord;Piemonte;VC;Vercelli;170911;2081,64;82;82
+Nord;Veneto;VR;Verona;926497;3096,39;299;98
+Sud e Isole;Calabria;VV;Vibo Valentia;160073;1150,64;139;50
+Nord;Veneto;VI;Vicenza;862418;2722,53;317;114
+Centro;Lazio;VT;Viterbo;317030;3615,24;88;60
