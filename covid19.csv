@@ -75,6 +75,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Abruzzo;Chieti;CH;42,35103167;14,16754574;769;2,0
 2020-05-09;Abruzzo;Chieti;CH;42,35103167;14,16754574;769;0,0
 2020-05-10;Abruzzo;Chieti;CH;42,35103167;14,16754574;772;3,0
+2020-05-11;Abruzzo;Chieti;CH;42,35103167;14,16754574;772;0,0
 2020-02-25;Abruzzo;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-26;Abruzzo;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-27;Abruzzo;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
@@ -151,6 +152,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Abruzzo;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-05-09;Abruzzo;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-05-10;Abruzzo;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
+2020-05-11;Abruzzo;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-25;Abruzzo;L'Aquila;AQ;42,35122196;13,39843823;0;0,0
 2020-02-26;Abruzzo;L'Aquila;AQ;42,35122196;13,39843823;0;0,0
 2020-02-27;Abruzzo;L'Aquila;AQ;42,35122196;13,39843823;0;0,0
@@ -227,6 +229,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Abruzzo;L'Aquila;AQ;42,35122196;13,39843823;243;0,0
 2020-05-09;Abruzzo;L'Aquila;AQ;42,35122196;13,39843823;243;0,0
 2020-05-10;Abruzzo;L'Aquila;AQ;42,35122196;13,39843823;243;0,0
+2020-05-11;Abruzzo;L'Aquila;AQ;42,35122196;13,39843823;243;0,0
 2020-02-25;Abruzzo;Pescara;PE;42,46458398;14,21364822;0;0,0
 2020-02-26;Abruzzo;Pescara;PE;42,46458398;14,21364822;0;0,0
 2020-02-27;Abruzzo;Pescara;PE;42,46458398;14,21364822;0;0,0
@@ -303,6 +306,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Abruzzo;Pescara;PE;42,46458398;14,21364822;1423;2,0
 2020-05-09;Abruzzo;Pescara;PE;42,46458398;14,21364822;1430;7,0
 2020-05-10;Abruzzo;Pescara;PE;42,46458398;14,21364822;1444;14,0
+2020-05-11;Abruzzo;Pescara;PE;42,46458398;14,21364822;1448;4,0
 2020-02-25;Abruzzo;Teramo;TE;42,6589177;13,70439971;0;0,0
 2020-02-26;Abruzzo;Teramo;TE;42,6589177;13,70439971;0;0,0
 2020-02-27;Abruzzo;Teramo;TE;42,6589177;13,70439971;1;1,0
@@ -379,6 +383,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Abruzzo;Teramo;TE;42,6589177;13,70439971;643;2,0
 2020-05-09;Abruzzo;Teramo;TE;42,6589177;13,70439971;644;1,0
 2020-05-10;Abruzzo;Teramo;TE;42,6589177;13,70439971;644;0,0
+2020-05-11;Abruzzo;Teramo;TE;42,6589177;13,70439971;644;0,0
 2020-02-25;Basilicata;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-26;Basilicata;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-27;Basilicata;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
@@ -455,6 +460,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Basilicata;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-05-09;Basilicata;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-05-10;Basilicata;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
+2020-05-11;Basilicata;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-25;Basilicata;Matera;MT;40,66751177;16,59792442;0;0,0
 2020-02-26;Basilicata;Matera;MT;40,66751177;16,59792442;0;0,0
 2020-02-27;Basilicata;Matera;MT;40,66751177;16,59792442;0;0,0
@@ -531,6 +537,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Basilicata;Matera;MT;40,66751177;16,59792442;202;0,0
 2020-05-09;Basilicata;Matera;MT;40,66751177;16,59792442;202;0,0
 2020-05-10;Basilicata;Matera;MT;40,66751177;16,59792442;204;2,0
+2020-05-11;Basilicata;Matera;MT;40,66751177;16,59792442;205;1,0
 2020-02-25;Basilicata;Potenza;PZ;40,63947052;15,80514834;0;0,0
 2020-02-26;Basilicata;Potenza;PZ;40,63947052;15,80514834;0;0,0
 2020-02-27;Basilicata;Potenza;PZ;40,63947052;15,80514834;0;0,0
@@ -607,6 +614,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Basilicata;Potenza;PZ;40,63947052;15,80514834;180;-1,0
 2020-05-09;Basilicata;Potenza;PZ;40,63947052;15,80514834;180;0,0
 2020-05-10;Basilicata;Potenza;PZ;40,63947052;15,80514834;181;1,0
+2020-05-11;Basilicata;Potenza;PZ;40,63947052;15,80514834;181;0,0
 2020-02-25;Calabria;Catanzaro;CZ;38,90597598;16,59440194;0;0,0
 2020-02-26;Calabria;Catanzaro;CZ;38,90597598;16,59440194;0;0,0
 2020-02-27;Calabria;Catanzaro;CZ;38,90597598;16,59440194;0;0,0
@@ -683,6 +691,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Calabria;Catanzaro;CZ;38,90597598;16,59440194;210;0,0
 2020-05-09;Calabria;Catanzaro;CZ;38,90597598;16,59440194;210;0,0
 2020-05-10;Calabria;Catanzaro;CZ;38,90597598;16,59440194;210;0,0
+2020-05-11;Calabria;Catanzaro;CZ;38,90597598;16,59440194;211;1,0
 2020-02-25;Calabria;Cosenza;CS;39,29308681;16,25609692;0;0,0
 2020-02-26;Calabria;Cosenza;CS;39,29308681;16,25609692;0;0,0
 2020-02-27;Calabria;Cosenza;CS;39,29308681;16,25609692;0;0,0
@@ -759,6 +768,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Calabria;Cosenza;CS;39,29308681;16,25609692;460;0,0
 2020-05-09;Calabria;Cosenza;CS;39,29308681;16,25609692;460;0,0
 2020-05-10;Calabria;Cosenza;CS;39,29308681;16,25609692;462;2,0
+2020-05-11;Calabria;Cosenza;CS;39,29308681;16,25609692;463;1,0
 2020-02-25;Calabria;Crotone;KR;39,08036878;17,12538864;0;0,0
 2020-02-26;Calabria;Crotone;KR;39,08036878;17,12538864;0;0,0
 2020-02-27;Calabria;Crotone;KR;39,08036878;17,12538864;0;0,0
@@ -835,6 +845,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Calabria;Crotone;KR;39,08036878;17,12538864;118;0,0
 2020-05-09;Calabria;Crotone;KR;39,08036878;17,12538864;118;0,0
 2020-05-10;Calabria;Crotone;KR;39,08036878;17,12538864;118;0,0
+2020-05-11;Calabria;Crotone;KR;39,08036878;17,12538864;118;0,0
 2020-02-25;Calabria;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-26;Calabria;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-27;Calabria;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
@@ -911,6 +922,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Calabria;In fase di definizione/aggiornamento;;0,0;0,0;2;0,0
 2020-05-09;Calabria;In fase di definizione/aggiornamento;;0,0;0,0;2;0,0
 2020-05-10;Calabria;In fase di definizione/aggiornamento;;0,0;0,0;2;0,0
+2020-05-11;Calabria;In fase di definizione/aggiornamento;;0,0;0,0;2;0,0
 2020-02-25;Calabria;Reggio di Calabria;RC;38,10922769;15,643452700000001;0;0,0
 2020-02-26;Calabria;Reggio di Calabria;RC;38,10922769;15,643452700000001;0;0,0
 2020-02-27;Calabria;Reggio di Calabria;RC;38,10922769;15,643452700000001;0;0,0
@@ -987,6 +999,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Calabria;Reggio di Calabria;RC;38,10922769;15,643452700000001;261;1,0
 2020-05-09;Calabria;Reggio di Calabria;RC;38,10922769;15,643452700000001;264;3,0
 2020-05-10;Calabria;Reggio di Calabria;RC;38,10922769;15,643452700000001;264;0,0
+2020-05-11;Calabria;Reggio di Calabria;RC;38,10922769;15,643452700000001;264;0,0
 2020-02-25;Calabria;Vibo Valentia;VV;38,67624147;16,10157414;0;0,0
 2020-02-26;Calabria;Vibo Valentia;VV;38,67624147;16,10157414;0;0,0
 2020-02-27;Calabria;Vibo Valentia;VV;38,67624147;16,10157414;0;0,0
@@ -1063,6 +1076,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Calabria;Vibo Valentia;VV;38,67624147;16,10157414;75;0,0
 2020-05-09;Calabria;Vibo Valentia;VV;38,67624147;16,10157414;75;0,0
 2020-05-10;Calabria;Vibo Valentia;VV;38,67624147;16,10157414;76;1,0
+2020-05-11;Calabria;Vibo Valentia;VV;38,67624147;16,10157414;76;0,0
 2020-02-25;Campania;Avellino;AV;40,91404699;14,79528803;0;0,0
 2020-02-26;Campania;Avellino;AV;40,91404699;14,79528803;0;0,0
 2020-02-27;Campania;Avellino;AV;40,91404699;14,79528803;0;0,0
@@ -1139,6 +1153,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Campania;Avellino;AV;40,91404699;14,79528803;486;12,0
 2020-05-09;Campania;Avellino;AV;40,91404699;14,79528803;494;8,0
 2020-05-10;Campania;Avellino;AV;40,91404699;14,79528803;503;9,0
+2020-05-11;Campania;Avellino;AV;40,91404699;14,79528803;503;0,0
 2020-02-25;Campania;Benevento;BN;41,12969987;14,78151683;0;0,0
 2020-02-26;Campania;Benevento;BN;41,12969987;14,78151683;0;0,0
 2020-02-27;Campania;Benevento;BN;41,12969987;14,78151683;0;0,0
@@ -1215,6 +1230,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Campania;Benevento;BN;41,12969987;14,78151683;189;0,0
 2020-05-09;Campania;Benevento;BN;41,12969987;14,78151683;189;0,0
 2020-05-10;Campania;Benevento;BN;41,12969987;14,78151683;189;0,0
+2020-05-11;Campania;Benevento;BN;41,12969987;14,78151683;190;1,0
 2020-02-25;Campania;Caserta;CE;41,07465878;14,33240464;0;0,0
 2020-02-26;Campania;Caserta;CE;41,07465878;14,33240464;0;0,0
 2020-02-27;Campania;Caserta;CE;41,07465878;14,33240464;0;0,0
@@ -1291,6 +1307,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Campania;Caserta;CE;41,07465878;14,33240464;429;4,0
 2020-05-09;Campania;Caserta;CE;41,07465878;14,33240464;430;1,0
 2020-05-10;Campania;Caserta;CE;41,07465878;14,33240464;430;0,0
+2020-05-11;Campania;Caserta;CE;41,07465878;14,33240464;431;1,0
 2020-02-25;Campania;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-26;Campania;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-27;Campania;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
@@ -1367,6 +1384,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Campania;In fase di definizione/aggiornamento;;0,0;0,0;280;-3,0
 2020-05-09;Campania;In fase di definizione/aggiornamento;;0,0;0,0;277;-3,0
 2020-05-10;Campania;In fase di definizione/aggiornamento;;0,0;0,0;274;-3,0
+2020-05-11;Campania;In fase di definizione/aggiornamento;;0,0;0,0;275;1,0
 2020-02-25;Campania;Napoli;;40,83956555;14,25084984;0;0,0
 2020-02-26;Campania;Napoli;;40,83956555;14,25084984;0;0,0
 2020-02-27;Campania;Napoli;;40,83956555;14,25084984;3;3,0
@@ -1443,6 +1461,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Campania;Napoli;;40,83956555;14,25084984;2514;8,0
 2020-05-09;Campania;Napoli;;40,83956555;14,25084984;2521;7,0
 2020-05-10;Campania;Napoli;;40,83956555;14,25084984;2525;4,0
+2020-05-11;Campania;Napoli;;40,83956555;14,25084984;2536;11,0
 2020-02-25;Campania;Salerno;SA;40,67821961;14,759402599999998;0;0,0
 2020-02-26;Campania;Salerno;SA;40,67821961;14,759402599999998;0;0,0
 2020-02-27;Campania;Salerno;SA;40,67821961;14,759402599999998;0;0,0
@@ -1519,6 +1538,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Campania;Salerno;SA;40,67821961;14,759402599999998;664;0,0
 2020-05-09;Campania;Salerno;SA;40,67821961;14,759402599999998;665;1,0
 2020-05-10;Campania;Salerno;SA;40,67821961;14,759402599999998;667;2,0
+2020-05-11;Campania;Salerno;SA;40,67821961;14,759402599999998;667;0,0
 2020-02-25;Emilia-Romagna;Bologna;BO;44,49436681;11,341720800000001;0;0,0
 2020-02-26;Emilia-Romagna;Bologna;BO;44,49436681;11,341720800000001;0;0,0
 2020-02-27;Emilia-Romagna;Bologna;BO;44,49436681;11,341720800000001;0;0,0
@@ -1595,6 +1615,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Emilia-Romagna;Bologna;BO;44,49436681;11,341720800000001;4720;35,0
 2020-05-09;Emilia-Romagna;Bologna;BO;44,49436681;11,341720800000001;4751;31,0
 2020-05-10;Emilia-Romagna;Bologna;BO;44,49436681;11,341720800000001;4773;22,0
+2020-05-11;Emilia-Romagna;Bologna;BO;44,49436681;11,341720800000001;4784;11,0
 2020-02-25;Emilia-Romagna;Ferrara;FE;44,83599085;11,61868934;0;0,0
 2020-02-26;Emilia-Romagna;Ferrara;FE;44,83599085;11,61868934;0;0,0
 2020-02-27;Emilia-Romagna;Ferrara;FE;44,83599085;11,61868934;0;0,0
@@ -1671,6 +1692,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Emilia-Romagna;Ferrara;FE;44,83599085;11,61868934;970;10,0
 2020-05-09;Emilia-Romagna;Ferrara;FE;44,83599085;11,61868934;972;2,0
 2020-05-10;Emilia-Romagna;Ferrara;FE;44,83599085;11,61868934;975;3,0
+2020-05-11;Emilia-Romagna;Ferrara;FE;44,83599085;11,61868934;977;2,0
 2020-02-25;Emilia-Romagna;Forlì-Cesena;FC;44,22268559;12,04068608;0;0,0
 2020-02-26;Emilia-Romagna;Forlì-Cesena;FC;44,22268559;12,04068608;0;0,0
 2020-02-27;Emilia-Romagna;Forlì-Cesena;FC;44,22268559;12,04068608;0;0,0
@@ -1747,6 +1769,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Emilia-Romagna;Forlì-Cesena;FC;44,22268559;12,04068608;1661;10,0
 2020-05-09;Emilia-Romagna;Forlì-Cesena;FC;44,22268559;12,04068608;1675;14,0
 2020-05-10;Emilia-Romagna;Forlì-Cesena;FC;44,22268559;12,04068608;1677;2,0
+2020-05-11;Emilia-Romagna;Forlì-Cesena;FC;44,22268559;12,04068608;1680;3,0
 2020-02-25;Emilia-Romagna;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-26;Emilia-Romagna;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-27;Emilia-Romagna;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
@@ -1823,6 +1846,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Emilia-Romagna;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-05-09;Emilia-Romagna;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-05-10;Emilia-Romagna;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
+2020-05-11;Emilia-Romagna;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-25;Emilia-Romagna;Modena;MO;44,64600009;10,92615487;3;3,0
 2020-02-26;Emilia-Romagna;Modena;MO;44,64600009;10,92615487;8;5,0
 2020-02-27;Emilia-Romagna;Modena;MO;44,64600009;10,92615487;18;10,0
@@ -1899,6 +1923,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Emilia-Romagna;Modena;MO;44,64600009;10,92615487;3779;7,0
 2020-05-09;Emilia-Romagna;Modena;MO;44,64600009;10,92615487;3792;13,0
 2020-05-10;Emilia-Romagna;Modena;MO;44,64600009;10,92615487;3800;8,0
+2020-05-11;Emilia-Romagna;Modena;MO;44,64600009;10,92615487;3823;23,0
 2020-02-25;Emilia-Romagna;Parma;PR;44,80107394;10,32834985;4;4,0
 2020-02-26;Emilia-Romagna;Parma;PR;44,80107394;10,32834985;8;4,0
 2020-02-27;Emilia-Romagna;Parma;PR;44,80107394;10,32834985;10;2,0
@@ -1975,6 +2000,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Emilia-Romagna;Parma;PR;44,80107394;10,32834985;3266;6,0
 2020-05-09;Emilia-Romagna;Parma;PR;44,80107394;10,32834985;3285;19,0
 2020-05-10;Emilia-Romagna;Parma;PR;44,80107394;10,32834985;3298;13,0
+2020-05-11;Emilia-Romagna;Parma;PR;44,80107394;10,32834985;3315;17,0
 2020-02-25;Emilia-Romagna;Piacenza;PC;45,05193462;9,692632596000001;18;18,0
 2020-02-26;Emilia-Romagna;Piacenza;PC;45,05193462;9,692632596000001;28;10,0
 2020-02-27;Emilia-Romagna;Piacenza;PC;45,05193462;9,692632596000001;63;35,0
@@ -2051,6 +2077,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Emilia-Romagna;Piacenza;PC;45,05193462;9,692632596000001;4334;34,0
 2020-05-09;Emilia-Romagna;Piacenza;PC;45,05193462;9,692632596000001;4346;12,0
 2020-05-10;Emilia-Romagna;Piacenza;PC;45,05193462;9,692632596000001;4361;15,0
+2020-05-11;Emilia-Romagna;Piacenza;PC;45,05193462;9,692632596000001;4375;14,0
 2020-02-25;Emilia-Romagna;Ravenna;RA;44,41722493;12,19913936;0;0,0
 2020-02-26;Emilia-Romagna;Ravenna;RA;44,41722493;12,19913936;0;0,0
 2020-02-27;Emilia-Romagna;Ravenna;RA;44,41722493;12,19913936;0;0,0
@@ -2127,6 +2154,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Emilia-Romagna;Ravenna;RA;44,41722493;12,19913936;993;0,0
 2020-05-09;Emilia-Romagna;Ravenna;RA;44,41722493;12,19913936;995;2,0
 2020-05-10;Emilia-Romagna;Ravenna;RA;44,41722493;12,19913936;997;2,0
+2020-05-11;Emilia-Romagna;Ravenna;RA;44,41722493;12,19913936;999;2,0
 2020-02-25;Emilia-Romagna;Reggio nell'Emilia;RE;44,69735289;10,63007973;0;0,0
 2020-02-26;Emilia-Romagna;Reggio nell'Emilia;RE;44,69735289;10,63007973;0;0,0
 2020-02-27;Emilia-Romagna;Reggio nell'Emilia;RE;44,69735289;10,63007973;0;0,0
@@ -2203,6 +2231,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Emilia-Romagna;Reggio nell'Emilia;RE;44,69735289;10,63007973;4819;7,0
 2020-05-09;Emilia-Romagna;Reggio nell'Emilia;RE;44,69735289;10,63007973;4835;16,0
 2020-05-10;Emilia-Romagna;Reggio nell'Emilia;RE;44,69735289;10,63007973;4846;11,0
+2020-05-11;Emilia-Romagna;Reggio nell'Emilia;RE;44,69735289;10,63007973;4849;3,0
 2020-02-25;Emilia-Romagna;Rimini;RN;44,06090087;12,5656295;1;1,0
 2020-02-26;Emilia-Romagna;Rimini;RN;44,06090087;12,5656295;3;2,0
 2020-02-27;Emilia-Romagna;Rimini;RN;44,06090087;12,5656295;6;3,0
@@ -2279,6 +2308,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Emilia-Romagna;Rimini;RN;44,06090087;12,5656295;2056;2,0
 2020-05-09;Emilia-Romagna;Rimini;RN;44,06090087;12,5656295;2068;12,0
 2020-05-10;Emilia-Romagna;Rimini;RN;44,06090087;12,5656295;2069;1,0
+2020-05-11;Emilia-Romagna;Rimini;RN;44,06090087;12,5656295;2074;5,0
 2020-02-25;Friuli Venezia Giulia;Gorizia;GO;45,94149817;13,62212502;0;0,0
 2020-02-26;Friuli Venezia Giulia;Gorizia;GO;45,94149817;13,62212502;0;0,0
 2020-02-27;Friuli Venezia Giulia;Gorizia;GO;45,94149817;13,62212502;0;0,0
@@ -2355,6 +2385,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Friuli Venezia Giulia;Gorizia;GO;45,94149817;13,62212502;194;2,0
 2020-05-09;Friuli Venezia Giulia;Gorizia;GO;45,94149817;13,62212502;195;1,0
 2020-05-10;Friuli Venezia Giulia;Gorizia;GO;45,94149817;13,62212502;195;0,0
+2020-05-11;Friuli Venezia Giulia;Gorizia;GO;45,94149817;13,62212502;195;0,0
 2020-02-25;Friuli Venezia Giulia;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-26;Friuli Venezia Giulia;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-27;Friuli Venezia Giulia;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
@@ -2431,6 +2462,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Friuli Venezia Giulia;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-05-09;Friuli Venezia Giulia;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-05-10;Friuli Venezia Giulia;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
+2020-05-11;Friuli Venezia Giulia;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-25;Friuli Venezia Giulia;Pordenone;PN;45,95443546;12,66002909;0;0,0
 2020-02-26;Friuli Venezia Giulia;Pordenone;PN;45,95443546;12,66002909;0;0,0
 2020-02-27;Friuli Venezia Giulia;Pordenone;PN;45,95443546;12,66002909;0;0,0
@@ -2507,6 +2539,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Friuli Venezia Giulia;Pordenone;PN;45,95443546;12,66002909;649;1,0
 2020-05-09;Friuli Venezia Giulia;Pordenone;PN;45,95443546;12,66002909;650;1,0
 2020-05-10;Friuli Venezia Giulia;Pordenone;PN;45,95443546;12,66002909;651;1,0
+2020-05-11;Friuli Venezia Giulia;Pordenone;PN;45,95443546;12,66002909;651;0,0
 2020-02-25;Friuli Venezia Giulia;Trieste;TS;45,6494354;13,76813649;0;0,0
 2020-02-26;Friuli Venezia Giulia;Trieste;TS;45,6494354;13,76813649;0;0,0
 2020-02-27;Friuli Venezia Giulia;Trieste;TS;45,6494354;13,76813649;0;0,0
@@ -2583,6 +2616,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Friuli Venezia Giulia;Trieste;TS;45,6494354;13,76813649;1306;6,0
 2020-05-09;Friuli Venezia Giulia;Trieste;TS;45,6494354;13,76813649;1311;5,0
 2020-05-10;Friuli Venezia Giulia;Trieste;TS;45,6494354;13,76813649;1316;5,0
+2020-05-11;Friuli Venezia Giulia;Trieste;TS;45,6494354;13,76813649;1322;6,0
 2020-02-25;Friuli Venezia Giulia;Udine;UD;46,06255516;13,2348383;0;0,0
 2020-02-26;Friuli Venezia Giulia;Udine;UD;46,06255516;13,2348383;0;0,0
 2020-02-27;Friuli Venezia Giulia;Udine;UD;46,06255516;13,2348383;0;0,0
@@ -2659,6 +2693,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Friuli Venezia Giulia;Udine;UD;46,06255516;13,2348383;967;0,0
 2020-05-09;Friuli Venezia Giulia;Udine;UD;46,06255516;13,2348383;968;1,0
 2020-05-10;Friuli Venezia Giulia;Udine;UD;46,06255516;13,2348383;968;0,0
+2020-05-11;Friuli Venezia Giulia;Udine;UD;46,06255516;13,2348383;970;2,0
 2020-02-25;Lazio;Frosinone;FR;41,63964569;13,35117161;0;0,0
 2020-02-26;Lazio;Frosinone;FR;41,63964569;13,35117161;0;0,0
 2020-02-27;Lazio;Frosinone;FR;41,63964569;13,35117161;0;0,0
@@ -2735,6 +2770,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Lazio;Frosinone;FR;41,63964569;13,35117161;573;0,0
 2020-05-09;Lazio;Frosinone;FR;41,63964569;13,35117161;576;3,0
 2020-05-10;Lazio;Frosinone;FR;41,63964569;13,35117161;578;2,0
+2020-05-11;Lazio;Frosinone;FR;41,63964569;13,35117161;579;1,0
 2020-02-25;Lazio;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-26;Lazio;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-27;Lazio;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
@@ -2811,6 +2847,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Lazio;In fase di definizione/aggiornamento;;0,0;0,0;105;-1,0
 2020-05-09;Lazio;In fase di definizione/aggiornamento;;0,0;0,0;108;3,0
 2020-05-10;Lazio;In fase di definizione/aggiornamento;;0,0;0,0;108;0,0
+2020-05-11;Lazio;In fase di definizione/aggiornamento;;0,0;0,0;108;0,0
 2020-02-25;Lazio;Latina;LT;41,46759465;12,90368482;0;0,0
 2020-02-26;Lazio;Latina;LT;41,46759465;12,90368482;0;0,0
 2020-02-27;Lazio;Latina;LT;41,46759465;12,90368482;0;0,0
@@ -2887,6 +2924,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Lazio;Latina;LT;41,46759465;12,90368482;507;0,0
 2020-05-09;Lazio;Latina;LT;41,46759465;12,90368482;510;3,0
 2020-05-10;Lazio;Latina;LT;41,46759465;12,90368482;511;1,0
+2020-05-11;Lazio;Latina;LT;41,46759465;12,90368482;511;0,0
 2020-02-25;Lazio;Rieti;RI;42,40488444;12,86205939;0;0,0
 2020-02-26;Lazio;Rieti;RI;42,40488444;12,86205939;0;0,0
 2020-02-27;Lazio;Rieti;RI;42,40488444;12,86205939;0;0,0
@@ -2963,6 +3001,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Lazio;Rieti;RI;42,40488444;12,86205939;331;3,0
 2020-05-09;Lazio;Rieti;RI;42,40488444;12,86205939;331;0,0
 2020-05-10;Lazio;Rieti;RI;42,40488444;12,86205939;331;0,0
+2020-05-11;Lazio;Rieti;RI;42,40488444;12,86205939;333;2,0
 2020-02-25;Lazio;Roma;RM;41,89277044;12,48366722;3;3,0
 2020-02-26;Lazio;Roma;RM;41,89277044;12,48366722;3;0,0
 2020-02-27;Lazio;Roma;RM;41,89277044;12,48366722;3;0,0
@@ -3039,6 +3078,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Lazio;Roma;RM;41,89277044;12,48366722;5164;47,0
 2020-05-09;Lazio;Roma;RM;41,89277044;12,48366722;5202;38,0
 2020-05-10;Lazio;Roma;RM;41,89277044;12,48366722;5229;27,0
+2020-05-11;Lazio;Roma;RM;41,89277044;12,48366722;5250;21,0
 2020-02-25;Lazio;Viterbo;VT;42,4173828;12,10473416;0;0,0
 2020-02-26;Lazio;Viterbo;VT;42,4173828;12,10473416;0;0,0
 2020-02-27;Lazio;Viterbo;VT;42,4173828;12,10473416;0;0,0
@@ -3115,6 +3155,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Lazio;Viterbo;VT;42,4173828;12,10473416;406;3,0
 2020-05-09;Lazio;Viterbo;VT;42,4173828;12,10473416;406;0,0
 2020-05-10;Lazio;Viterbo;VT;42,4173828;12,10473416;408;2,0
+2020-05-11;Lazio;Viterbo;VT;42,4173828;12,10473416;409;1,0
 2020-02-25;Liguria;Genova;GE;44,41149314;8,9326992;0;0,0
 2020-02-26;Liguria;Genova;GE;44,41149314;8,9326992;0;0,0
 2020-02-27;Liguria;Genova;GE;44,41149314;8,9326992;0;0,0
@@ -3191,6 +3232,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Liguria;Genova;GE;44,41149314;8,9326992;5056;49,0
 2020-05-09;Liguria;Genova;GE;44,41149314;8,9326992;5046;-10,0
 2020-05-10;Liguria;Genova;GE;44,41149314;8,9326992;5065;19,0
+2020-05-11;Liguria;Genova;GE;44,41149314;8,9326992;5095;30,0
 2020-02-25;Liguria;Imperia;IM;43,88570648;8,027850297999999;0;0,0
 2020-02-26;Liguria;Imperia;IM;43,88570648;8,027850297999999;0;0,0
 2020-02-27;Liguria;Imperia;IM;43,88570648;8,027850297999999;0;0,0
@@ -3267,6 +3309,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Liguria;Imperia;IM;43,88570648;8,027850297999999;1399;10,0
 2020-05-09;Liguria;Imperia;IM;43,88570648;8,027850297999999;1403;4,0
 2020-05-10;Liguria;Imperia;IM;43,88570648;8,027850297999999;1417;14,0
+2020-05-11;Liguria;Imperia;IM;43,88570648;8,027850297999999;1429;12,0
 2020-02-25;Liguria;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-26;Liguria;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-27;Liguria;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
@@ -3343,6 +3386,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Liguria;In fase di definizione/aggiornamento;;0,0;0,0;8;0,0
 2020-05-09;Liguria;In fase di definizione/aggiornamento;;0,0;0,0;10;2,0
 2020-05-10;Liguria;In fase di definizione/aggiornamento;;0,0;0,0;7;-3,0
+2020-05-11;Liguria;In fase di definizione/aggiornamento;;0,0;0,0;4;-3,0
 2020-02-25;Liguria;La Spezia;SP;44,10704991;9,8281897;0;0,0
 2020-02-26;Liguria;La Spezia;SP;44,10704991;9,8281897;1;1,0
 2020-02-27;Liguria;La Spezia;SP;44,10704991;9,8281897;1;0,0
@@ -3419,6 +3463,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Liguria;La Spezia;SP;44,10704991;9,8281897;877;6,0
 2020-05-09;Liguria;La Spezia;SP;44,10704991;9,8281897;886;9,0
 2020-05-10;Liguria;La Spezia;SP;44,10704991;9,8281897;889;3,0
+2020-05-11;Liguria;La Spezia;SP;44,10704991;9,8281897;891;2,0
 2020-02-25;Liguria;Savona;SV;44,30750461;8,481108654;1;1,0
 2020-02-26;Liguria;Savona;SV;44,30750461;8,481108654;10;9,0
 2020-02-27;Liguria;Savona;SV;44,30750461;8,481108654;18;8,0
@@ -3495,6 +3540,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Liguria;Savona;SV;44,30750461;8,481108654;1383;13,0
 2020-05-09;Liguria;Savona;SV;44,30750461;8,481108654;1393;10,0
 2020-05-10;Liguria;Savona;SV;44,30750461;8,481108654;1410;17,0
+2020-05-11;Liguria;Savona;SV;44,30750461;8,481108654;1413;3,0
 2020-02-25;Lombardia;Bergamo;BG;45,69441368;9,668424528;18;18,0
 2020-02-26;Lombardia;Bergamo;BG;45,69441368;9,668424528;20;2,0
 2020-02-27;Lombardia;Bergamo;BG;45,69441368;9,668424528;72;52,0
@@ -3571,6 +3617,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Lombardia;Bergamo;BG;45,69441368;9,668424528;11671;49,0
 2020-05-09;Lombardia;Bergamo;BG;45,69441368;9,668424528;11717;46,0
 2020-05-10;Lombardia;Bergamo;BG;45,69441368;9,668424528;11741;24,0
+2020-05-11;Lombardia;Bergamo;BG;45,69441368;9,668424528;11791;50,0
 2020-02-25;Lombardia;Brescia;BS;45,53993052;10,21910323;0;0,0
 2020-02-26;Lombardia;Brescia;BS;45,53993052;10,21910323;2;2,0
 2020-02-27;Lombardia;Brescia;BS;45,53993052;10,21910323;10;8,0
@@ -3647,6 +3694,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Lombardia;Brescia;BS;45,53993052;10,21910323;13460;69,0
 2020-05-09;Lombardia;Brescia;BS;45,53993052;10,21910323;13506;46,0
 2020-05-10;Lombardia;Brescia;BS;45,53993052;10,21910323;13550;44,0
+2020-05-11;Lombardia;Brescia;BS;45,53993052;10,21910323;13620;70,0
 2020-02-25;Lombardia;Como;CO;45,8099912;9,085159546;0;0,0
 2020-02-26;Lombardia;Como;CO;45,8099912;9,085159546;0;0,0
 2020-02-27;Lombardia;Como;CO;45,8099912;9,085159546;0;0,0
@@ -3723,6 +3771,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Lombardia;Como;CO;45,8099912;9,085159546;3470;30,0
 2020-05-09;Lombardia;Como;CO;45,8099912;9,085159546;3480;10,0
 2020-05-10;Lombardia;Como;CO;45,8099912;9,085159546;3496;16,0
+2020-05-11;Lombardia;Como;CO;45,8099912;9,085159546;3504;8,0
 2020-02-25;Lombardia;Cremona;CR;45,13336675;10,02420865;53;53,0
 2020-02-26;Lombardia;Cremona;CR;45,13336675;10,02420865;57;4,0
 2020-02-27;Lombardia;Cremona;CR;45,13336675;10,02420865;91;34,0
@@ -3799,6 +3848,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Lombardia;Cremona;CR;45,13336675;10,02420865;6219;41,0
 2020-05-09;Lombardia;Cremona;CR;45,13336675;10,02420865;6242;23,0
 2020-05-10;Lombardia;Cremona;CR;45,13336675;10,02420865;6248;6,0
+2020-05-11;Lombardia;Cremona;CR;45,13336675;10,02420865;6250;2,0
 2020-02-25;Lombardia;In fase di definizione/aggiornamento;;0,0;0,0;5;5,0
 2020-02-26;Lombardia;In fase di definizione/aggiornamento;;0,0;0,0;9;4,0
 2020-02-27;Lombardia;In fase di definizione/aggiornamento;;0,0;0,0;12;3,0
@@ -3875,6 +3925,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Lombardia;In fase di definizione/aggiornamento;;0,0;0,0;1759;3,0
 2020-05-09;Lombardia;In fase di definizione/aggiornamento;;0,0;0,0;1780;21,0
 2020-05-10;Lombardia;In fase di definizione/aggiornamento;;0,0;0,0;1787;7,0
+2020-05-11;Lombardia;In fase di definizione/aggiornamento;;0,0;0,0;1793;6,0
 2020-02-25;Lombardia;Lecco;LC;45,85575781;9,393392246;0;0,0
 2020-02-26;Lombardia;Lecco;LC;45,85575781;9,393392246;0;0,0
 2020-02-27;Lombardia;Lecco;LC;45,85575781;9,393392246;0;0,0
@@ -3951,6 +4002,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Lombardia;Lecco;LC;45,85575781;9,393392246;2448;29,0
 2020-05-09;Lombardia;Lecco;LC;45,85575781;9,393392246;2482;34,0
 2020-05-10;Lombardia;Lecco;LC;45,85575781;9,393392246;2486;4,0
+2020-05-11;Lombardia;Lecco;LC;45,85575781;9,393392246;2536;50,0
 2020-02-25;Lombardia;Lodi;LO;45,31440693;9,503720769;125;125,0
 2020-02-26;Lombardia;Lodi;LO;45,31440693;9,503720769;128;3,0
 2020-02-27;Lombardia;Lodi;LO;45,31440693;9,503720769;159;31,0
@@ -4027,6 +4079,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Lombardia;Lodi;LO;45,31440693;9,503720769;3222;18,0
 2020-05-09;Lombardia;Lodi;LO;45,31440693;9,503720769;3264;42,0
 2020-05-10;Lombardia;Lodi;LO;45,31440693;9,503720769;3271;7,0
+2020-05-11;Lombardia;Lodi;LO;45,31440693;9,503720769;3277;6,0
 2020-02-25;Lombardia;Mantova;MN;45,15726772;10,79277363;0;0,0
 2020-02-26;Lombardia;Mantova;MN;45,15726772;10,79277363;0;0,0
 2020-02-27;Lombardia;Mantova;MN;45,15726772;10,79277363;0;0,0
@@ -4103,6 +4156,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Lombardia;Mantova;MN;45,15726772;10,79277363;3237;16,0
 2020-05-09;Lombardia;Mantova;MN;45,15726772;10,79277363;3250;13,0
 2020-05-10;Lombardia;Mantova;MN;45,15726772;10,79277363;3251;1,0
+2020-05-11;Lombardia;Mantova;MN;45,15726772;10,79277363;3251;0,0
 2020-02-25;Lombardia;Milano;MI;45,46679409;9,190347404;8;8,0
 2020-02-26;Lombardia;Milano;MI;45,46679409;9,190347404;8;0,0
 2020-02-27;Lombardia;Milano;MI;45,46679409;9,190347404;15;7,0
@@ -4179,6 +4233,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Lombardia;Milano;MI;45,46679409;9,190347404;21094;201,0
 2020-05-09;Lombardia;Milano;MI;45,46679409;9,190347404;21272;178,0
 2020-05-10;Lombardia;Milano;MI;45,46679409;9,190347404;21376;104,0
+2020-05-11;Lombardia;Milano;MI;45,46679409;9,190347404;21490;114,0
 2020-02-25;Lombardia;Monza e della Brianza;MB;45,58439043;9,273582472000001;3;3,0
 2020-02-26;Lombardia;Monza e della Brianza;MB;45,58439043;9,273582472000001;4;1,0
 2020-02-27;Lombardia;Monza e della Brianza;MB;45,58439043;9,273582472000001;5;1,0
@@ -4255,6 +4310,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Lombardia;Monza e della Brianza;MB;45,58439043;9,273582472000001;5015;41,0
 2020-05-09;Lombardia;Monza e della Brianza;MB;45,58439043;9,273582472000001;5046;31,0
 2020-05-10;Lombardia;Monza e della Brianza;MB;45,58439043;9,273582472000001;5055;9,0
+2020-05-11;Lombardia;Monza e della Brianza;MB;45,58439043;9,273582472000001;5074;19,0
 2020-02-25;Lombardia;Pavia;PV;45,18509264;9,160157191;27;27,0
 2020-02-26;Lombardia;Pavia;PV;45,18509264;9,160157191;27;0,0
 2020-02-27;Lombardia;Pavia;PV;45,18509264;9,160157191;36;9,0
@@ -4331,6 +4387,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Lombardia;Pavia;PV;45,18509264;9,160157191;4704;52,0
 2020-05-09;Lombardia;Pavia;PV;45,18509264;9,160157191;4742;38,0
 2020-05-10;Lombardia;Pavia;PV;45,18509264;9,160157191;4777;35,0
+2020-05-11;Lombardia;Pavia;PV;45,18509264;9,160157191;4801;24,0
 2020-02-25;Lombardia;Sondrio;SO;46,17099261;9,87147489;1;1,0
 2020-02-26;Lombardia;Sondrio;SO;46,17099261;9,87147489;3;2,0
 2020-02-27;Lombardia;Sondrio;SO;46,17099261;9,87147489;3;0,0
@@ -4407,6 +4464,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Lombardia;Sondrio;SO;46,17099261;9,87147489;1276;10,0
 2020-05-09;Lombardia;Sondrio;SO;46,17099261;9,87147489;1280;4,0
 2020-05-10;Lombardia;Sondrio;SO;46,17099261;9,87147489;1287;7,0
+2020-05-11;Lombardia;Sondrio;SO;46,17099261;9,87147489;1288;1,0
 2020-02-25;Lombardia;Varese;VA;45,81701677;8,822868344;0;0,0
 2020-02-26;Lombardia;Varese;VA;45,81701677;8,822868344;0;0,0
 2020-02-27;Lombardia;Varese;VA;45,81701677;8,822868344;0;0,0
@@ -4483,6 +4541,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Lombardia;Varese;VA;45,81701677;8,822868344;3148;75,0
 2020-05-09;Lombardia;Varese;VA;45,81701677;8,822868344;3164;16,0
 2020-05-10;Lombardia;Varese;VA;45,81701677;8,822868344;3182;18,0
+2020-05-11;Lombardia;Varese;VA;45,81701677;8,822868344;3196;14,0
 2020-02-25;Marche;Ancona;AN;43,61675973;13,5188753;0;0,0
 2020-02-26;Marche;Ancona;AN;43,61675973;13,5188753;0;0,0
 2020-02-27;Marche;Ancona;AN;43,61675973;13,5188753;0;0,0
@@ -4559,6 +4618,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Marche;Ancona;AN;43,61675973;13,5188753;1826;4,0
 2020-05-09;Marche;Ancona;AN;43,61675973;13,5188753;1830;4,0
 2020-05-10;Marche;Ancona;AN;43,61675973;13,5188753;1837;7,0
+2020-05-11;Marche;Ancona;AN;43,61675973;13,5188753;1837;0,0
 2020-02-25;Marche;Ascoli Piceno;AP;42,85322304;13,57691127;0;0,0
 2020-02-26;Marche;Ascoli Piceno;AP;42,85322304;13,57691127;0;0,0
 2020-02-27;Marche;Ascoli Piceno;AP;42,85322304;13,57691127;0;0,0
@@ -4635,6 +4695,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Marche;Ascoli Piceno;AP;42,85322304;13,57691127;287;1,0
 2020-05-09;Marche;Ascoli Piceno;AP;42,85322304;13,57691127;287;0,0
 2020-05-10;Marche;Ascoli Piceno;AP;42,85322304;13,57691127;287;0,0
+2020-05-11;Marche;Ascoli Piceno;AP;42,85322304;13,57691127;288;1,0
 2020-02-25;Marche;Fermo;FM;43,16058534;13,71839535;0;0,0
 2020-02-26;Marche;Fermo;FM;43,16058534;13,71839535;0;0,0
 2020-02-27;Marche;Fermo;FM;43,16058534;13,71839535;0;0,0
@@ -4711,6 +4772,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Marche;Fermo;FM;43,16058534;13,71839535;454;0,0
 2020-05-09;Marche;Fermo;FM;43,16058534;13,71839535;455;1,0
 2020-05-10;Marche;Fermo;FM;43,16058534;13,71839535;455;0,0
+2020-05-11;Marche;Fermo;FM;43,16058534;13,71839535;455;0,0
 2020-02-25;Marche;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-26;Marche;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-27;Marche;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
@@ -4787,6 +4849,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Marche;In fase di definizione/aggiornamento;;0,0;0,0;213;3,0
 2020-05-09;Marche;In fase di definizione/aggiornamento;;0,0;0,0;215;2,0
 2020-05-10;Marche;In fase di definizione/aggiornamento;;0,0;0,0;220;5,0
+2020-05-11;Marche;In fase di definizione/aggiornamento;;0,0;0,0;220;0,0
 2020-02-25;Marche;Macerata;MC;43,30023926;13,45307182;0;0,0
 2020-02-26;Marche;Macerata;MC;43,30023926;13,45307182;0;0,0
 2020-02-27;Marche;Macerata;MC;43,30023926;13,45307182;0;0,0
@@ -4863,6 +4926,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Marche;Macerata;MC;43,30023926;13,45307182;1051;1,0
 2020-05-09;Marche;Macerata;MC;43,30023926;13,45307182;1056;5,0
 2020-05-10;Marche;Macerata;MC;43,30023926;13,45307182;1067;11,0
+2020-05-11;Marche;Macerata;MC;43,30023926;13,45307182;1068;1,0
 2020-02-25;Marche;Pesaro e Urbino;PU;43,91014021;12,91345989;0;0,0
 2020-02-26;Marche;Pesaro e Urbino;PU;43,91014021;12,91345989;1;1,0
 2020-02-27;Marche;Pesaro e Urbino;PU;43,91014021;12,91345989;3;2,0
@@ -4939,6 +5003,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Marche;Pesaro e Urbino;PU;43,91014021;12,91345989;2639;9,0
 2020-05-09;Marche;Pesaro e Urbino;PU;43,91014021;12,91345989;2650;11,0
 2020-05-10;Marche;Pesaro e Urbino;PU;43,91014021;12,91345989;2667;17,0
+2020-05-11;Marche;Pesaro e Urbino;PU;43,91014021;12,91345989;2675;8,0
 2020-02-25;Molise;Campobasso;CB;41,55774754;14,65916051;0;0,0
 2020-02-26;Molise;Campobasso;CB;41,55774754;14,65916051;0;0,0
 2020-02-27;Molise;Campobasso;CB;41,55774754;14,65916051;0;0,0
@@ -5015,6 +5080,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Molise;Campobasso;CB;41,55774754;14,65916051;251;22,0
 2020-05-09;Molise;Campobasso;CB;41,55774754;14,65916051;271;20,0
 2020-05-10;Molise;Campobasso;CB;41,55774754;14,65916051;294;23,0
+2020-05-11;Molise;Campobasso;CB;41,55774754;14,65916051;307;13,0
 2020-02-25;Molise;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-26;Molise;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-27;Molise;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
@@ -5091,6 +5157,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Molise;In fase di definizione/aggiornamento;;0,0;0,0;19;0,0
 2020-05-09;Molise;In fase di definizione/aggiornamento;;0,0;0,0;19;0,0
 2020-05-10;Molise;In fase di definizione/aggiornamento;;0,0;0,0;19;0,0
+2020-05-11;Molise;In fase di definizione/aggiornamento;;0,0;0,0;19;0,0
 2020-02-25;Molise;Isernia;IS;41,58800826;14,22575407;0;0,0
 2020-02-26;Molise;Isernia;IS;41,58800826;14,22575407;0;0,0
 2020-02-27;Molise;Isernia;IS;41,58800826;14,22575407;0;0,0
@@ -5167,6 +5234,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Molise;Isernia;IS;41,58800826;14,22575407;57;0,0
 2020-05-09;Molise;Isernia;IS;41,58800826;14,22575407;57;0,0
 2020-05-10;Molise;Isernia;IS;41,58800826;14,22575407;57;0,0
+2020-05-11;Molise;Isernia;IS;41,58800826;14,22575407;57;0,0
 2020-02-25;Trentino-Alto Adige;Bolzano;BZ;46,49933453;11,35662422;1;1,0
 2020-02-26;Trentino-Alto Adige;Bolzano;BZ;46,49933453;11,35662422;1;0,0
 2020-02-27;Trentino-Alto Adige;Bolzano;BZ;46,49933453;11,35662422;1;0,0
@@ -5243,6 +5311,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Trentino-Alto Adige;Bolzano;BZ;46,49933453;11,35662422;2558;6,0
 2020-05-09;Trentino-Alto Adige;Bolzano;BZ;46,49933453;11,35662422;2567;9,0
 2020-05-10;Trentino-Alto Adige;Bolzano;BZ;46,49933453;11,35662422;2569;2,0
+2020-05-11;Trentino-Alto Adige;Bolzano;BZ;46,49933453;11,35662422;2572;3,0
 2020-02-25;Trentino-Alto Adige;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-26;Trentino-Alto Adige;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-27;Trentino-Alto Adige;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
@@ -5319,6 +5388,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Trentino-Alto Adige;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-05-09;Trentino-Alto Adige;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-05-10;Trentino-Alto Adige;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
+2020-05-11;Trentino-Alto Adige;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-25;Trentino-Alto Adige;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-26;Trentino-Alto Adige;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-27;Trentino-Alto Adige;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
@@ -5395,6 +5465,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Trentino-Alto Adige;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-05-09;Trentino-Alto Adige;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-05-10;Trentino-Alto Adige;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
+2020-05-11;Trentino-Alto Adige;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-25;Trentino-Alto Adige;Trento;TN;46,06893511;11,12123097;0;0,0
 2020-02-26;Trentino-Alto Adige;Trento;TN;46,06893511;11,12123097;0;0,0
 2020-02-27;Trentino-Alto Adige;Trento;TN;46,06893511;11,12123097;0;0,0
@@ -5471,6 +5542,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Trentino-Alto Adige;Trento;TN;46,06893511;11,12123097;4285;2,0
 2020-05-09;Trentino-Alto Adige;Trento;TN;46,06893511;11,12123097;4292;7,0
 2020-05-10;Trentino-Alto Adige;Trento;TN;46,06893511;11,12123097;4295;3,0
+2020-05-11;Trentino-Alto Adige;Trento;TN;46,06893511;11,12123097;4297;2,0
 2020-02-25;Piemonte;Alessandria;AL;44,91297351;8,615401155;0;0,0
 2020-02-26;Piemonte;Alessandria;AL;44,91297351;8,615401155;0;0,0
 2020-02-27;Piemonte;Alessandria;AL;44,91297351;8,615401155;0;0,0
@@ -5547,6 +5619,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Piemonte;Alessandria;AL;44,91297351;8,615401155;3712;58,0
 2020-05-09;Piemonte;Alessandria;AL;44,91297351;8,615401155;3723;11,0
 2020-05-10;Piemonte;Alessandria;AL;44,91297351;8,615401155;3730;7,0
+2020-05-11;Piemonte;Alessandria;AL;44,91297351;8,615401155;3732;2,0
 2020-02-25;Piemonte;Asti;AT;44,89912921;8,204142547;0;0,0
 2020-02-26;Piemonte;Asti;AT;44,89912921;8,204142547;0;0,0
 2020-02-27;Piemonte;Asti;AT;44,89912921;8,204142547;0;0,0
@@ -5623,6 +5696,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Piemonte;Asti;AT;44,89912921;8,204142547;1666;11,0
 2020-05-09;Piemonte;Asti;AT;44,89912921;8,204142547;1671;5,0
 2020-05-10;Piemonte;Asti;AT;44,89912921;8,204142547;1679;8,0
+2020-05-11;Piemonte;Asti;AT;44,89912921;8,204142547;1685;6,0
 2020-02-25;Piemonte;Biella;BI;45,5665112;8,054082167;0;0,0
 2020-02-26;Piemonte;Biella;BI;45,5665112;8,054082167;0;0,0
 2020-02-27;Piemonte;Biella;BI;45,5665112;8,054082167;0;0,0
@@ -5699,6 +5773,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Piemonte;Biella;BI;45,5665112;8,054082167;1002;0,0
 2020-05-09;Piemonte;Biella;BI;45,5665112;8,054082167;1007;5,0
 2020-05-10;Piemonte;Biella;BI;45,5665112;8,054082167;1015;8,0
+2020-05-11;Piemonte;Biella;BI;45,5665112;8,054082167;1015;0,0
 2020-02-25;Piemonte;Cuneo;CN;44,39329625;7,551171632000001;0;0,0
 2020-02-26;Piemonte;Cuneo;CN;44,39329625;7,551171632000001;0;0,0
 2020-02-27;Piemonte;Cuneo;CN;44,39329625;7,551171632000001;0;0,0
@@ -5775,6 +5850,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Piemonte;Cuneo;CN;44,39329625;7,551171632000001;2628;25,0
 2020-05-09;Piemonte;Cuneo;CN;44,39329625;7,551171632000001;2634;6,0
 2020-05-10;Piemonte;Cuneo;CN;44,39329625;7,551171632000001;2641;7,0
+2020-05-11;Piemonte;Cuneo;CN;44,39329625;7,551171632000001;2646;5,0
 2020-02-25;Piemonte;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-26;Piemonte;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-27;Piemonte;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
@@ -5851,6 +5927,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Piemonte;In fase di definizione/aggiornamento;;0,0;0,0;360;6,0
 2020-05-09;Piemonte;In fase di definizione/aggiornamento;;0,0;0,0;364;4,0
 2020-05-10;Piemonte;In fase di definizione/aggiornamento;;0,0;0,0;365;1,0
+2020-05-11;Piemonte;In fase di definizione/aggiornamento;;0,0;0,0;364;-1,0
 2020-02-25;Piemonte;Novara;NO;45,44588506;8,621915884;0;0,0
 2020-02-26;Piemonte;Novara;NO;45,44588506;8,621915884;0;0,0
 2020-02-27;Piemonte;Novara;NO;45,44588506;8,621915884;0;0,0
@@ -5927,6 +6004,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Piemonte;Novara;NO;45,44588506;8,621915884;2442;8,0
 2020-05-09;Piemonte;Novara;NO;45,44588506;8,621915884;2468;26,0
 2020-05-10;Piemonte;Novara;NO;45,44588506;8,621915884;2475;7,0
+2020-05-11;Piemonte;Novara;NO;45,44588506;8,621915884;2481;6,0
 2020-02-25;Piemonte;Torino;TO;45,0732745;7,680687483;3;3,0
 2020-02-26;Piemonte;Torino;TO;45,0732745;7,680687483;3;0,0
 2020-02-27;Piemonte;Torino;TO;45,0732745;7,680687483;2;-1,0
@@ -6003,6 +6081,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Piemonte;Torino;TO;45,0732745;7,680687483;14320;116,0
 2020-05-09;Piemonte;Torino;TO;45,0732745;7,680687483;14428;108,0
 2020-05-10;Piemonte;Torino;TO;45,0732745;7,680687483;14494;66,0
+2020-05-11;Piemonte;Torino;TO;45,0732745;7,680687483;14560;66,0
 2020-02-25;Piemonte;Verbano-Cusio-Ossola;VB;45,921445500000004;8,551078752999999;0;0,0
 2020-02-26;Piemonte;Verbano-Cusio-Ossola;VB;45,921445500000004;8,551078752999999;0;0,0
 2020-02-27;Piemonte;Verbano-Cusio-Ossola;VB;45,921445500000004;8,551078752999999;0;0,0
@@ -6079,6 +6158,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Piemonte;Verbano-Cusio-Ossola;VB;45,921445500000004;8,551078752999999;1070;1,0
 2020-05-09;Piemonte;Verbano-Cusio-Ossola;VB;45,921445500000004;8,551078752999999;1075;5,0
 2020-05-10;Piemonte;Verbano-Cusio-Ossola;VB;45,921445500000004;8,551078752999999;1081;6,0
+2020-05-11;Piemonte;Verbano-Cusio-Ossola;VB;45,921445500000004;8,551078752999999;1093;12,0
 2020-02-25;Piemonte;Vercelli;VC;45,32398135;8,423234312;0;0,0
 2020-02-26;Piemonte;Vercelli;VC;45,32398135;8,423234312;0;0,0
 2020-02-27;Piemonte;Vercelli;VC;45,32398135;8,423234312;0;0,0
@@ -6155,6 +6235,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Piemonte;Vercelli;VC;45,32398135;8,423234312;1168;8,0
 2020-05-09;Piemonte;Vercelli;VC;45,32398135;8,423234312;1179;11,0
 2020-05-10;Piemonte;Vercelli;VC;45,32398135;8,423234312;1185;6,0
+2020-05-11;Piemonte;Vercelli;VC;45,32398135;8,423234312;1200;15,0
 2020-02-25;Puglia;Bari;BA;41,12559576;16,86736689;0;0,0
 2020-02-26;Puglia;Bari;BA;41,12559576;16,86736689;0;0,0
 2020-02-27;Puglia;Bari;BA;41,12559576;16,86736689;1;1,0
@@ -6231,6 +6312,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Puglia;Bari;BA;41,12559576;16,86736689;1371;9,0
 2020-05-09;Puglia;Bari;BA;41,12559576;16,86736689;1391;20,0
 2020-05-10;Puglia;Bari;BA;41,12559576;16,86736689;1413;22,0
+2020-05-11;Puglia;Bari;BA;41,12559576;16,86736689;1420;7,0
 2020-02-25;Puglia;Barletta-Andria-Trani;BT;41,22705039;16,29520432;0;0,0
 2020-02-26;Puglia;Barletta-Andria-Trani;BT;41,22705039;16,29520432;0;0,0
 2020-02-27;Puglia;Barletta-Andria-Trani;BT;41,22705039;16,29520432;0;0,0
@@ -6307,6 +6389,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Puglia;Barletta-Andria-Trani;BT;41,22705039;16,29520432;379;-1,0
 2020-05-09;Puglia;Barletta-Andria-Trani;BT;41,22705039;16,29520432;381;2,0
 2020-05-10;Puglia;Barletta-Andria-Trani;BT;41,22705039;16,29520432;381;0,0
+2020-05-11;Puglia;Barletta-Andria-Trani;BT;41,22705039;16,29520432;381;0,0
 2020-02-25;Puglia;Brindisi;BR;40,63848545;17,94601575;0;0,0
 2020-02-26;Puglia;Brindisi;BR;40,63848545;17,94601575;0;0,0
 2020-02-27;Puglia;Brindisi;BR;40,63848545;17,94601575;0;0,0
@@ -6383,6 +6466,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Puglia;Brindisi;BR;40,63848545;17,94601575;600;0,0
 2020-05-09;Puglia;Brindisi;BR;40,63848545;17,94601575;604;4,0
 2020-05-10;Puglia;Brindisi;BR;40,63848545;17,94601575;605;1,0
+2020-05-11;Puglia;Brindisi;BR;40,63848545;17,94601575;605;0,0
 2020-02-25;Puglia;Foggia;FG;41,46226865;15,54305094;0;0,0
 2020-02-26;Puglia;Foggia;FG;41,46226865;15,54305094;0;0,0
 2020-02-27;Puglia;Foggia;FG;41,46226865;15,54305094;0;0,0
@@ -6459,6 +6543,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Puglia;Foggia;FG;41,46226865;15,54305094;1103;5,0
 2020-05-09;Puglia;Foggia;FG;41,46226865;15,54305094;1108;5,0
 2020-05-10;Puglia;Foggia;FG;41,46226865;15,54305094;1111;3,0
+2020-05-11;Puglia;Foggia;FG;41,46226865;15,54305094;1116;5,0
 2020-02-25;Puglia;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-26;Puglia;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-27;Puglia;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
@@ -6535,6 +6620,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Puglia;In fase di definizione/aggiornamento;;0,0;0,0;30;-3,0
 2020-05-09;Puglia;In fase di definizione/aggiornamento;;0,0;0,0;29;-1,0
 2020-05-10;Puglia;In fase di definizione/aggiornamento;;0,0;0,0;29;0,0
+2020-05-11;Puglia;In fase di definizione/aggiornamento;;0,0;0,0;29;0,0
 2020-02-25;Puglia;Lecce;LE;40,35354285;18,1718973;0;0,0
 2020-02-26;Puglia;Lecce;LE;40,35354285;18,1718973;0;0,0
 2020-02-27;Puglia;Lecce;LE;40,35354285;18,1718973;0;0,0
@@ -6611,6 +6697,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Puglia;Lecce;LE;40,35354285;18,1718973;503;1,0
 2020-05-09;Puglia;Lecce;LE;40,35354285;18,1718973;503;0,0
 2020-05-10;Puglia;Lecce;LE;40,35354285;18,1718973;504;1,0
+2020-05-11;Puglia;Lecce;LE;40,35354285;18,1718973;505;1,0
 2020-02-25;Puglia;Taranto;TA;40,47354739;17,23237181;0;0,0
 2020-02-26;Puglia;Taranto;TA;40,47354739;17,23237181;0;0,0
 2020-02-27;Puglia;Taranto;TA;40,47354739;17,23237181;0;0,0
@@ -6687,6 +6774,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Puglia;Taranto;TA;40,47354739;17,23237181;270;0,0
 2020-05-09;Puglia;Taranto;TA;40,47354739;17,23237181;270;0,0
 2020-05-10;Puglia;Taranto;TA;40,47354739;17,23237181;270;0,0
+2020-05-11;Puglia;Taranto;TA;40,47354739;17,23237181;271;1,0
 2020-02-25;Sardegna;Cagliari;CA;39,21531192;9,110616306;0;0,0
 2020-02-26;Sardegna;Cagliari;CA;39,21531192;9,110616306;0;0,0
 2020-02-27;Sardegna;Cagliari;CA;39,21531192;9,110616306;0;0,0
@@ -6763,6 +6851,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Sardegna;Cagliari;CA;39,21531192;9,110616306;243;0,0
 2020-05-09;Sardegna;Cagliari;CA;39,21531192;9,110616306;243;0,0
 2020-05-10;Sardegna;Cagliari;CA;39,21531192;9,110616306;244;1,0
+2020-05-11;Sardegna;Cagliari;CA;39,21531192;9,110616306;245;1,0
 2020-02-25;Sardegna;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-26;Sardegna;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-27;Sardegna;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
@@ -6839,6 +6928,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Sardegna;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-05-09;Sardegna;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-05-10;Sardegna;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
+2020-05-11;Sardegna;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-25;Sardegna;Nuoro;NU;40,32318834;9,330296393;0;0,0
 2020-02-26;Sardegna;Nuoro;NU;40,32318834;9,330296393;0;0,0
 2020-02-27;Sardegna;Nuoro;NU;40,32318834;9,330296393;0;0,0
@@ -6915,6 +7005,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Sardegna;Nuoro;NU;40,32318834;9,330296393;78;0,0
 2020-05-09;Sardegna;Nuoro;NU;40,32318834;9,330296393;78;0,0
 2020-05-10;Sardegna;Nuoro;NU;40,32318834;9,330296393;78;0,0
+2020-05-11;Sardegna;Nuoro;NU;40,32318834;9,330296393;78;0,0
 2020-02-25;Sardegna;Oristano;OR;39,90381075;8,591183151000001;0;0,0
 2020-02-26;Sardegna;Oristano;OR;39,90381075;8,591183151000001;0;0,0
 2020-02-27;Sardegna;Oristano;OR;39,90381075;8,591183151000001;0;0,0
@@ -6991,6 +7082,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Sardegna;Oristano;OR;39,90381075;8,591183151000001;55;0,0
 2020-05-09;Sardegna;Oristano;OR;39,90381075;8,591183151000001;56;1,0
 2020-05-10;Sardegna;Oristano;OR;39,90381075;8,591183151000001;57;1,0
+2020-05-11;Sardegna;Oristano;OR;39,90381075;8,591183151000001;57;0,0
 2020-02-25;Sardegna;Sassari;SS;40,72667657;8,559667131;0;0,0
 2020-02-26;Sardegna;Sassari;SS;40,72667657;8,559667131;0;0,0
 2020-02-27;Sardegna;Sassari;SS;40,72667657;8,559667131;0;0,0
@@ -7067,6 +7159,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Sardegna;Sassari;SS;40,72667657;8,559667131;860;6,0
 2020-05-09;Sardegna;Sassari;SS;40,72667657;8,559667131;863;3,0
 2020-05-10;Sardegna;Sassari;SS;40,72667657;8,559667131;866;3,0
+2020-05-11;Sardegna;Sassari;SS;40,72667657;8,559667131;866;0,0
 2020-02-25;Sardegna;Sud Sardegna;SU;39,16641462;8,526242676;0;0,0
 2020-02-26;Sardegna;Sud Sardegna;SU;39,16641462;8,526242676;0;0,0
 2020-02-27;Sardegna;Sud Sardegna;SU;39,16641462;8,526242676;0;0,0
@@ -7143,6 +7236,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Sardegna;Sud Sardegna;SU;39,16641462;8,526242676;94;0,0
 2020-05-09;Sardegna;Sud Sardegna;SU;39,16641462;8,526242676;94;0,0
 2020-05-10;Sardegna;Sud Sardegna;SU;39,16641462;8,526242676;95;1,0
+2020-05-11;Sardegna;Sud Sardegna;SU;39,16641462;8,526242676;97;2,0
 2020-02-25;Sicilia;Agrigento;AG;37,30971088;13,584574900000002;0;0,0
 2020-02-26;Sicilia;Agrigento;AG;37,30971088;13,584574900000002;0;0,0
 2020-02-27;Sicilia;Agrigento;AG;37,30971088;13,584574900000002;0;0,0
@@ -7219,6 +7313,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Sicilia;Agrigento;AG;37,30971088;13,584574900000002;135;0,0
 2020-05-09;Sicilia;Agrigento;AG;37,30971088;13,584574900000002;137;2,0
 2020-05-10;Sicilia;Agrigento;AG;37,30971088;13,584574900000002;137;0,0
+2020-05-11;Sicilia;Agrigento;AG;37,30971088;13,584574900000002;137;0,0
 2020-02-25;Sicilia;Caltanissetta;CL;37,49213171;14,06184973;0;0,0
 2020-02-26;Sicilia;Caltanissetta;CL;37,49213171;14,06184973;0;0,0
 2020-02-27;Sicilia;Caltanissetta;CL;37,49213171;14,06184973;0;0,0
@@ -7295,6 +7390,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Sicilia;Caltanissetta;CL;37,49213171;14,06184973;162;0,0
 2020-05-09;Sicilia;Caltanissetta;CL;37,49213171;14,06184973;162;0,0
 2020-05-10;Sicilia;Caltanissetta;CL;37,49213171;14,06184973;162;0,0
+2020-05-11;Sicilia;Caltanissetta;CL;37,49213171;14,06184973;162;0,0
 2020-02-25;Sicilia;Catania;CT;37,50287803;15,08704691;0;0,0
 2020-02-26;Sicilia;Catania;CT;37,50287803;15,08704691;0;0,0
 2020-02-27;Sicilia;Catania;CT;37,50287803;15,08704691;1;1,0
@@ -7371,6 +7467,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Sicilia;Catania;CT;37,50287803;15,08704691;1032;5,0
 2020-05-09;Sicilia;Catania;CT;37,50287803;15,08704691;1035;3,0
 2020-05-10;Sicilia;Catania;CT;37,50287803;15,08704691;1037;2,0
+2020-05-11;Sicilia;Catania;CT;37,50287803;15,08704691;1046;9,0
 2020-02-25;Sicilia;Enna;EN;37,56705701;14,27909375;0;0,0
 2020-02-26;Sicilia;Enna;EN;37,56705701;14,27909375;0;0,0
 2020-02-27;Sicilia;Enna;EN;37,56705701;14,27909375;0;0,0
@@ -7447,6 +7544,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Sicilia;Enna;EN;37,56705701;14,27909375;421;0,0
 2020-05-09;Sicilia;Enna;EN;37,56705701;14,27909375;421;0,0
 2020-05-10;Sicilia;Enna;EN;37,56705701;14,27909375;421;0,0
+2020-05-11;Sicilia;Enna;EN;37,56705701;14,27909375;421;0,0
 2020-02-25;Sicilia;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-26;Sicilia;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-27;Sicilia;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
@@ -7523,6 +7621,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Sicilia;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-05-09;Sicilia;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-05-10;Sicilia;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
+2020-05-11;Sicilia;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-25;Sicilia;Messina;ME;38,19395845;15,55572302;0;0,0
 2020-02-26;Sicilia;Messina;ME;38,19395845;15,55572302;0;0,0
 2020-02-27;Sicilia;Messina;ME;38,19395845;15,55572302;0;0,0
@@ -7599,6 +7698,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Sicilia;Messina;ME;38,19395845;15,55572302;552;0,0
 2020-05-09;Sicilia;Messina;ME;38,19395845;15,55572302;553;1,0
 2020-05-10;Sicilia;Messina;ME;38,19395845;15,55572302;557;4,0
+2020-05-11;Sicilia;Messina;ME;38,19395845;15,55572302;557;0,0
 2020-02-25;Sicilia;Palermo;PA;38,11569725;13,362356699999998;3;3,0
 2020-02-26;Sicilia;Palermo;PA;38,11569725;13,362356699999998;3;0,0
 2020-02-27;Sicilia;Palermo;PA;38,11569725;13,362356699999998;3;0,0
@@ -7675,6 +7775,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Sicilia;Palermo;PA;38,11569725;13,362356699999998;531;8,0
 2020-05-09;Sicilia;Palermo;PA;38,11569725;13,362356699999998;533;2,0
 2020-05-10;Sicilia;Palermo;PA;38,11569725;13,362356699999998;541;8,0
+2020-05-11;Sicilia;Palermo;PA;38,11569725;13,362356699999998;544;3,0
 2020-02-25;Sicilia;Ragusa;RG;36,92509198;14,73069891;0;0,0
 2020-02-26;Sicilia;Ragusa;RG;36,92509198;14,73069891;0;0,0
 2020-02-27;Sicilia;Ragusa;RG;36,92509198;14,73069891;0;0,0
@@ -7751,6 +7852,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Sicilia;Ragusa;RG;36,92509198;14,73069891;94;0,0
 2020-05-09;Sicilia;Ragusa;RG;36,92509198;14,73069891;94;0,0
 2020-05-10;Sicilia;Ragusa;RG;36,92509198;14,73069891;94;0,0
+2020-05-11;Sicilia;Ragusa;RG;36,92509198;14,73069891;94;0,0
 2020-02-25;Sicilia;Siracusa;SR;37,05991687;15,29333182;0;0,0
 2020-02-26;Sicilia;Siracusa;SR;37,05991687;15,29333182;0;0,0
 2020-02-27;Sicilia;Siracusa;SR;37,05991687;15,29333182;0;0,0
@@ -7827,6 +7929,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Sicilia;Siracusa;SR;37,05991687;15,29333182;235;0,0
 2020-05-09;Sicilia;Siracusa;SR;37,05991687;15,29333182;239;4,0
 2020-05-10;Sicilia;Siracusa;SR;37,05991687;15,29333182;239;0,0
+2020-05-11;Sicilia;Siracusa;SR;37,05991687;15,29333182;239;0,0
 2020-02-25;Sicilia;Trapani;TP;38,01850065;12,51365684;0;0,0
 2020-02-26;Sicilia;Trapani;TP;38,01850065;12,51365684;0;0,0
 2020-02-27;Sicilia;Trapani;TP;38,01850065;12,51365684;0;0,0
@@ -7903,6 +8006,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Sicilia;Trapani;TP;38,01850065;12,51365684;139;0,0
 2020-05-09;Sicilia;Trapani;TP;38,01850065;12,51365684;139;0,0
 2020-05-10;Sicilia;Trapani;TP;38,01850065;12,51365684;139;0,0
+2020-05-11;Sicilia;Trapani;TP;38,01850065;12,51365684;139;0,0
 2020-02-25;Toscana;Arezzo;AR;43,46642752;11,88228844;0;0,0
 2020-02-26;Toscana;Arezzo;AR;43,46642752;11,88228844;0;0,0
 2020-02-27;Toscana;Arezzo;AR;43,46642752;11,88228844;0;0,0
@@ -7979,6 +8083,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Toscana;Arezzo;AR;43,46642752;11,88228844;660;5,0
 2020-05-09;Toscana;Arezzo;AR;43,46642752;11,88228844;660;0,0
 2020-05-10;Toscana;Arezzo;AR;43,46642752;11,88228844;662;2,0
+2020-05-11;Toscana;Arezzo;AR;43,46642752;11,88228844;665;3,0
 2020-02-25;Toscana;Firenze;FI;43,76923077;11,25588885;1;1,0
 2020-02-26;Toscana;Firenze;FI;43,76923077;11,25588885;2;1,0
 2020-02-27;Toscana;Firenze;FI;43,76923077;11,25588885;1;-1,0
@@ -8055,6 +8160,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Toscana;Firenze;FI;43,76923077;11,25588885;3296;21,0
 2020-05-09;Toscana;Firenze;FI;43,76923077;11,25588885;3305;9,0
 2020-05-10;Toscana;Firenze;FI;43,76923077;11,25588885;3316;11,0
+2020-05-11;Toscana;Firenze;FI;43,76923077;11,25588885;3322;6,0
 2020-02-25;Toscana;Grosseto;GR;42,76026758;11,11356398;0;0,0
 2020-02-26;Toscana;Grosseto;GR;42,76026758;11,11356398;0;0,0
 2020-02-27;Toscana;Grosseto;GR;42,76026758;11,11356398;0;0,0
@@ -8131,6 +8237,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Toscana;Grosseto;GR;42,76026758;11,11356398;417;1,0
 2020-05-09;Toscana;Grosseto;GR;42,76026758;11,11356398;417;0,0
 2020-05-10;Toscana;Grosseto;GR;42,76026758;11,11356398;421;4,0
+2020-05-11;Toscana;Grosseto;GR;42,76026758;11,11356398;421;0,0
 2020-02-25;Toscana;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-26;Toscana;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-27;Toscana;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
@@ -8207,6 +8314,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Toscana;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-05-09;Toscana;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-05-10;Toscana;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
+2020-05-11;Toscana;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-25;Toscana;Livorno;LI;43,55234873;10,3086781;0;0,0
 2020-02-26;Toscana;Livorno;LI;43,55234873;10,3086781;0;0,0
 2020-02-27;Toscana;Livorno;LI;43,55234873;10,3086781;0;0,0
@@ -8283,6 +8391,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Toscana;Livorno;LI;43,55234873;10,3086781;531;1,0
 2020-05-09;Toscana;Livorno;LI;43,55234873;10,3086781;535;4,0
 2020-05-10;Toscana;Livorno;LI;43,55234873;10,3086781;535;0,0
+2020-05-11;Toscana;Livorno;LI;43,55234873;10,3086781;535;0,0
 2020-02-25;Toscana;Lucca;LU;43,84432283;10,50151366;0;0,0
 2020-02-26;Toscana;Lucca;LU;43,84432283;10,50151366;0;0,0
 2020-02-27;Toscana;Lucca;LU;43,84432283;10,50151366;0;0,0
@@ -8359,6 +8468,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Toscana;Lucca;LU;43,84432283;10,50151366;1319;3,0
 2020-05-09;Toscana;Lucca;LU;43,84432283;10,50151366;1324;5,0
 2020-05-10;Toscana;Lucca;LU;43,84432283;10,50151366;1328;4,0
+2020-05-11;Toscana;Lucca;LU;43,84432283;10,50151366;1329;1,0
 2020-02-25;Toscana;Massa Carrara;MS;44,03674425;10,14173829;0;0,0
 2020-02-26;Toscana;Massa Carrara;MS;44,03674425;10,14173829;0;0,0
 2020-02-27;Toscana;Massa Carrara;MS;44,03674425;10,14173829;0;0,0
@@ -8435,6 +8545,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Toscana;Massa Carrara;MS;44,03674425;10,14173829;1022;1,0
 2020-05-09;Toscana;Massa Carrara;MS;44,03674425;10,14173829;1022;0,0
 2020-05-10;Toscana;Massa Carrara;MS;44,03674425;10,14173829;1028;6,0
+2020-05-11;Toscana;Massa Carrara;MS;44,03674425;10,14173829;1029;1,0
 2020-02-25;Toscana;Pisa;PI;43,71553206;10,40127259;0;0,0
 2020-02-26;Toscana;Pisa;PI;43,71553206;10,40127259;0;0,0
 2020-02-27;Toscana;Pisa;PI;43,71553206;10,40127259;0;0,0
@@ -8511,6 +8622,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Toscana;Pisa;PI;43,71553206;10,40127259;865;2,0
 2020-05-09;Toscana;Pisa;PI;43,71553206;10,40127259;867;2,0
 2020-05-10;Toscana;Pisa;PI;43,71553206;10,40127259;867;0,0
+2020-05-11;Toscana;Pisa;PI;43,71553206;10,40127259;868;1,0
 2020-02-25;Toscana;Pistoia;PT;43,933465000000005;10,91734146;1;1,0
 2020-02-26;Toscana;Pistoia;PT;43,933465000000005;10,91734146;0;-1,0
 2020-02-27;Toscana;Pistoia;PT;43,933465000000005;10,91734146;1;1,0
@@ -8587,6 +8699,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Toscana;Pistoia;PT;43,933465000000005;10,91734146;648;1,0
 2020-05-09;Toscana;Pistoia;PT;43,933465000000005;10,91734146;652;4,0
 2020-05-10;Toscana;Pistoia;PT;43,933465000000005;10,91734146;652;0,0
+2020-05-11;Toscana;Pistoia;PT;43,933465000000005;10,91734146;652;0,0
 2020-02-25;Toscana;Prato;PO;43,88062274;11,09703315;0;0,0
 2020-02-26;Toscana;Prato;PO;43,88062274;11,09703315;0;0,0
 2020-02-27;Toscana;Prato;PO;43,88062274;11,09703315;0;0,0
@@ -8663,6 +8776,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Toscana;Prato;PO;43,88062274;11,09703315;536;1,0
 2020-05-09;Toscana;Prato;PO;43,88062274;11,09703315;536;0,0
 2020-05-10;Toscana;Prato;PO;43,88062274;11,09703315;538;2,0
+2020-05-11;Toscana;Prato;PO;43,88062274;11,09703315;539;1,0
 2020-02-25;Toscana;Siena;SI;43,31816374;11,33190988;0;0,0
 2020-02-26;Toscana;Siena;SI;43,31816374;11,33190988;0;0,0
 2020-02-27;Toscana;Siena;SI;43,31816374;11,33190988;0;0,0
@@ -8739,6 +8853,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Toscana;Siena;SI;43,31816374;11,33190988;427;2,0
 2020-05-09;Toscana;Siena;SI;43,31816374;11,33190988;427;0,0
 2020-05-10;Toscana;Siena;SI;43,31816374;11,33190988;427;0,0
+2020-05-11;Toscana;Siena;SI;43,31816374;11,33190988;427;0,0
 2020-02-25;Umbria;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-26;Umbria;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-27;Umbria;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
@@ -8815,6 +8930,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Umbria;In fase di definizione/aggiornamento;;0,0;0,0;52;0,0
 2020-05-09;Umbria;In fase di definizione/aggiornamento;;0,0;0,0;53;1,0
 2020-05-10;Umbria;In fase di definizione/aggiornamento;;0,0;0,0;54;1,0
+2020-05-11;Umbria;In fase di definizione/aggiornamento;;0,0;0,0;54;0,0
 2020-02-25;Umbria;Perugia;PG;43,10675841;12,38824698;0;0,0
 2020-02-26;Umbria;Perugia;PG;43,10675841;12,38824698;0;0,0
 2020-02-27;Umbria;Perugia;PG;43,10675841;12,38824698;0;0,0
@@ -8891,6 +9007,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Umbria;Perugia;PG;43,10675841;12,38824698;993;-1,0
 2020-05-09;Umbria;Perugia;PG;43,10675841;12,38824698;992;-1,0
 2020-05-10;Umbria;Perugia;PG;43,10675841;12,38824698;993;1,0
+2020-05-11;Umbria;Perugia;PG;43,10675841;12,38824698;993;0,0
 2020-02-25;Umbria;Terni;TR;42,56071258;12,6466875;0;0,0
 2020-02-26;Umbria;Terni;TR;42,56071258;12,6466875;0;0,0
 2020-02-27;Umbria;Terni;TR;42,56071258;12,6466875;0;0,0
@@ -8967,6 +9084,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Umbria;Terni;TR;42,56071258;12,6466875;361;2,0
 2020-05-09;Umbria;Terni;TR;42,56071258;12,6466875;362;1,0
 2020-05-10;Umbria;Terni;TR;42,56071258;12,6466875;364;2,0
+2020-05-11;Umbria;Terni;TR;42,56071258;12,6466875;365;1,0
 2020-02-25;Valle d'Aosta;Aosta;AO;45,73750286;7,320149366;0;0,0
 2020-02-26;Valle d'Aosta;Aosta;AO;45,73750286;7,320149366;0;0,0
 2020-02-27;Valle d'Aosta;Aosta;AO;45,73750286;7,320149366;0;0,0
@@ -9043,6 +9161,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Valle d'Aosta;Aosta;AO;45,73750286;7,320149366;1151;1,0
 2020-05-09;Valle d'Aosta;Aosta;AO;45,73750286;7,320149366;1152;1,0
 2020-05-10;Valle d'Aosta;Aosta;AO;45,73750286;7,320149366;1157;5,0
+2020-05-11;Valle d'Aosta;Aosta;AO;45,73750286;7,320149366;1158;1,0
 2020-02-25;Valle d'Aosta;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-26;Valle d'Aosta;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-27;Valle d'Aosta;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
@@ -9119,6 +9238,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Valle d'Aosta;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-05-09;Valle d'Aosta;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-05-10;Valle d'Aosta;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
+2020-05-11;Valle d'Aosta;In fase di definizione/aggiornamento;;0,0;0,0;0;0,0
 2020-02-25;Veneto;Belluno;BL;46,13837528;12,21704167;0;0,0
 2020-02-26;Veneto;Belluno;BL;46,13837528;12,21704167;0;0,0
 2020-02-27;Veneto;Belluno;BL;46,13837528;12,21704167;0;0,0
@@ -9195,6 +9315,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Veneto;Belluno;BL;46,13837528;12,21704167;1145;3,0
 2020-05-09;Veneto;Belluno;BL;46,13837528;12,21704167;1146;1,0
 2020-05-10;Veneto;Belluno;BL;46,13837528;12,21704167;1148;2,0
+2020-05-11;Veneto;Belluno;BL;46,13837528;12,21704167;1148;0,0
 2020-02-25;Veneto;In fase di definizione/aggiornamento;;0,0;0,0;5;5,0
 2020-02-26;Veneto;In fase di definizione/aggiornamento;;0,0;0,0;21;16,0
 2020-02-27;Veneto;In fase di definizione/aggiornamento;;0,0;0,0;13;-8,0
@@ -9271,6 +9392,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Veneto;In fase di definizione/aggiornamento;;0,0;0,0;327;3,0
 2020-05-09;Veneto;In fase di definizione/aggiornamento;;0,0;0,0;327;0,0
 2020-05-10;Veneto;In fase di definizione/aggiornamento;;0,0;0,0;328;1,0
+2020-05-11;Veneto;In fase di definizione/aggiornamento;;0,0;0,0;333;5,0
 2020-02-25;Veneto;Padova;PD;45,40692987;11,87608718;30;30,0
 2020-02-26;Veneto;Padova;PD;45,40692987;11,87608718;40;10,0
 2020-02-27;Veneto;Padova;PD;45,40692987;11,87608718;59;19,0
@@ -9347,6 +9469,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Veneto;Padova;PD;45,40692987;11,87608718;3889;4,0
 2020-05-09;Veneto;Padova;PD;45,40692987;11,87608718;3891;2,0
 2020-05-10;Veneto;Padova;PD;45,40692987;11,87608718;3895;4,0
+2020-05-11;Veneto;Padova;PD;45,40692987;11,87608718;3900;5,0
 2020-02-25;Veneto;Rovigo;RO;45,07107289;11,79007;0;0,0
 2020-02-26;Veneto;Rovigo;RO;45,07107289;11,79007;0;0,0
 2020-02-27;Veneto;Rovigo;RO;45,07107289;11,79007;0;0,0
@@ -9423,6 +9546,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Veneto;Rovigo;RO;45,07107289;11,79007;429;0,0
 2020-05-09;Veneto;Rovigo;RO;45,07107289;11,79007;430;1,0
 2020-05-10;Veneto;Rovigo;RO;45,07107289;11,79007;432;2,0
+2020-05-11;Veneto;Rovigo;RO;45,07107289;11,79007;433;1,0
 2020-02-25;Veneto;Treviso;TV;45,66754571;12,24507363;1;1,0
 2020-02-26;Veneto;Treviso;TV;45,66754571;12,24507363;2;1,0
 2020-02-27;Veneto;Treviso;TV;45,66754571;12,24507363;22;20,0
@@ -9499,6 +9623,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Veneto;Treviso;TV;45,66754571;12,24507363;2588;23,0
 2020-05-09;Veneto;Treviso;TV;45,66754571;12,24507363;2607;19,0
 2020-05-10;Veneto;Treviso;TV;45,66754571;12,24507363;2607;0,0
+2020-05-11;Veneto;Treviso;TV;45,66754571;12,24507363;2609;2,0
 2020-02-25;Veneto;Venezia;VE;45,43490485;12,33845213;7;7,0
 2020-02-26;Veneto;Venezia;VE;45,43490485;12,33845213;8;1,0
 2020-02-27;Veneto;Venezia;VE;45,43490485;12,33845213;14;6,0
@@ -9575,6 +9700,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Veneto;Venezia;VE;45,43490485;12,33845213;2575;7,0
 2020-05-09;Veneto;Venezia;VE;45,43490485;12,33845213;2580;5,0
 2020-05-10;Veneto;Venezia;VE;45,43490485;12,33845213;2596;16,0
+2020-05-11;Veneto;Venezia;VE;45,43490485;12,33845213;2599;3,0
 2020-02-25;Veneto;Verona;VR;45,43839046;10,99352685;0;0,0
 2020-02-26;Veneto;Verona;VR;45,43839046;10,99352685;0;0,0
 2020-02-27;Veneto;Verona;VR;45,43839046;10,99352685;0;0,0
@@ -9651,6 +9777,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Veneto;Verona;VR;45,43839046;10,99352685;4917;20,0
 2020-05-09;Veneto;Verona;VR;45,43839046;10,99352685;4934;17,0
 2020-05-10;Veneto;Verona;VR;45,43839046;10,99352685;4944;10,0
+2020-05-11;Veneto;Verona;VR;45,43839046;10,99352685;4946;2,0
 2020-02-25;Veneto;Vicenza;VI;45,547497;11,54597109;0;0,0
 2020-02-26;Veneto;Vicenza;VI;45,547497;11,54597109;0;0,0
 2020-02-27;Veneto;Vicenza;VI;45,547497;11,54597109;3;3,0
@@ -9727,3 +9854,4 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-08;Veneto;Vicenza;VI;45,547497;11,54597109;2748;5,0
 2020-05-09;Veneto;Vicenza;VI;45,547497;11,54597109;2756;8,0
 2020-05-10;Veneto;Vicenza;VI;45,547497;11,54597109;2772;16,0
+2020-05-11;Veneto;Vicenza;VI;45,547497;11,54597109;2773;1,0
