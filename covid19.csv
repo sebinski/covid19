@@ -7800,7 +7800,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-25;Puglia;Barletta-Andria-Trani;BT;41,22705039;16,29520432;381;0,0
 2020-05-26;Puglia;Barletta-Andria-Trani;BT;41,22705039;16,29520432;382;1,0
 2020-05-27;Puglia;Barletta-Andria-Trani;BT;41,22705039;16,29520432;383;1,0
-2020-05-28;Puglia;Barletta-Andria-Trani;BT;41,22705039;16,29520432;652;269,0
+2020-05-28;Puglia;Barletta-Andria-Trani;BT;41,22705039;16,29520432;381;-2,0
 2020-02-25;Puglia;Brindisi;BR;40,63848545;17,94601575;0;0,0
 2020-02-26;Puglia;Brindisi;BR;40,63848545;17,94601575;0;0,0
 2020-02-27;Puglia;Brindisi;BR;40,63848545;17,94601575;0;0,0
@@ -7894,7 +7894,7 @@ data;regione;provincia;sigla_provincia;lat;long;totale_casi;nuovi_casi
 2020-05-25;Puglia;Brindisi;BR;40,63848545;17,94601575;650;-2,0
 2020-05-26;Puglia;Brindisi;BR;40,63848545;17,94601575;651;1,0
 2020-05-27;Puglia;Brindisi;BR;40,63848545;17,94601575;651;0,0
-2020-05-28;Puglia;Brindisi;BR;40,63848545;17,94601575;381;-270,0
+2020-05-28;Puglia;Brindisi;BR;40,63848545;17,94601575;652;1,0
 2020-02-25;Puglia;Foggia;FG;41,46226865;15,54305094;0;0,0
 2020-02-26;Puglia;Foggia;FG;41,46226865;15,54305094;0;0,0
 2020-02-27;Puglia;Foggia;FG;41,46226865;15,54305094;0;0,0
